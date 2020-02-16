@@ -1,0 +1,12 @@
+name: Word-Prediction
+title: Word-Prediction
+username:
+account: chenlianghe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1816203
+bundleId: 2802996
+url: https://chenlianghe.shinyapps.io/Word-Prediction/
+when: 1581774033.84789
+asMultiple: FALSE
+asStatic: FALSE
